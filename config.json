@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "La Beaute Nails",
+        "slug"      : "La-beaute-nails",
+        "phone"     : "(909) 315-6677",
+        "email"     : "labeautenailsalon.inc@gmail.com",
+        "state"     : "Califirnia",
+        "address"   : "517 W Arrow Hwy San Dimas, California 91773",
+        "time_1"    : "Tue - Sat: 10:00 AM - 07:00 PM",
+        "time_2"    : "Sun: 10:00 AM - 05:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/labeautenails91773",
+        "instagram" :   "https://www.instagram.com/sherrynail2018",
+        "google"    :   "https://goo.gl/maps/o6JdvbhyxFEhwvHq7", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDc5NTN8bGFiZWF1dGUxNXxDQV8wODAxNXw2YzVlZGU0ZjFiM2Q2MjdiZmM1MzY4OWJiZDNiNTNiOA==",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3303.635678393408!2d-117.81847604872132!3d34.104472422327156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c32f3baa514c59%3A0x9f0aef806fd81892!2sLa%20Beaut%C3%A9%20Nails!5e0!3m2!1sen!2s!4v1666166607304!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#545454",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#000000",
+        "secondary"             :   "#fff991",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#939393",
+        "text_primary_hover"    :   "#000000",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "./img",
+    "domain":       "http://127.0.0.1:5500/"
+}
